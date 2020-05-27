@@ -48,7 +48,7 @@ m2 = rexp.sub(' ', newTxt) # apotelesma apo to epexargasmeno keimeno apo proigou
 f5.write(m)
 newTxt = m2
 
-# 6 metatripi html entities
+# 6 metatrοpi html entities
 
 def cb(b): # briskei to adistixo simbolo gia na antikatastisi
     if b.group(1) =='amp':
